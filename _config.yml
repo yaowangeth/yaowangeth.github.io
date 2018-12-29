@@ -83,7 +83,7 @@ author:
   name             : "Yaohua Wang"
   avatar           : "profile.png"
   bio              : "Associative Professor"
-  location         : "National University of Defense Technology"
+  location         : "National University \\of Defense Technology"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=opJG10AAAAAJ&hl=en"
   email            :
@@ -107,7 +107,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : ""
   vine             :
   weibo            :
   xing             :
