@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -36,7 +36,7 @@ Proceedings of the 45th International Symposium on Computer Architecture (ISCA),
 
 Yaohua Wang, Dong Wang, Shuming Chen, Zonglin Liu, Shenggang Chen, Xiaowen Chen, Xu Zhou, "Iteration Interleaving--Based SIMD Lane Partition", ACM Transactions on Architecture and Code Optimization (TACO), Vol. 12, January 2016. Presented at the 11th HiPEAC Conference, Prague, Czech Republic, January 2016. 
 
-Yaohua Wang, Shuming Chen, Jianghua Wan, Jiayuan Meng, Kai Zhang, Wei Liu, Xi Ning, "A multiple SIMD, multiple data (MSMD) architecture: Parallel execution of dynamic and static SIMD fragments"  (HPCA2013), 2013 Proceedings of the 19th International Symposium on High Performance Computer Architecture (HPCA), Shengzhen, China, Feburary 2013.
+Yaohua Wang, Shuming Chen, Jianghua Wan, Jiayuan Meng, Kai Zhang, Wei Liu, Xi Ning, "A multiple SIMD, multiple data (MSMD) architecture: Parallel execution of dynamic and static SIMD fragments" Proceedings of the 19th International Symposium on High Performance Computer Architecture (HPCA), Shengzhen, China, Feburary 2013.
 
 Yaohua Wang, Shuming Chen, Kai Zhang, Jianghua Wan, Xiaowen Chen, Hu Chen, Haibo Wang,
 "Instruction shuffle: Achieving mimd-like performance on simd architectures" IEEE Computer Architecture Letters, Vol.11, Issue 2, 2012. (Best paper award, invited to present at the 19th HPCA conference).
