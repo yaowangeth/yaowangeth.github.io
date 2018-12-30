@@ -36,13 +36,19 @@ Arash Tavakkol, Mohammad Sadrosadati, Saugata Ghose, Jeremie Kim, Yixin Luo, Yao
 <font color="blue">"FLIN: Enabling Fairness and Enhancing Performance in Modern NVMe Solid State Drives"</font>
 Proceedings of the 45th International Symposium on Computer Architecture (<b>ISCA</b>), Los Angeles, CA, USA, June 2018. 
 
+Jian Zhang, Shuming Chen, Yaohua Wang, <font color="blue">"Advancing CMOS-type Ising Arithmetic Unit into the Domain of Real-world Applications"</font> IEEE Transactions on Computers (<b>TOC</b>), Vol.67, Issue 5, 2018.
+
 Yaohua Wang, Dong Wang, Shuming Chen, Zonglin Liu, Shenggang Chen, Xiaowen Chen, Xu Zhou, 
 <font color="blue">"Iteration Interleaving--Based SIMD Lane Partition"</font>
 ACM Transactions on Architecture and Code Optimization (<b>TACO</b>), Vol. 12, January 2016. Presented at the 11th HiPEAC Conference, Prague, Czech Republic, January 2016. 
 
+Shuming Chen, Yaohua Wang, Sheng Liu, Jianghua Wan, Haiyan Chen, Hengzhu Liu, Kai Zhang, Xiangyuan Liu, Xi Ning,
+<font color="blue">"FT-Matrix: A coordination-aware architecture for signal processing"</font>
+<b>IEEE MICRO</b>, Vol.34, Issue 6, November 2014.
+
 Yaohua Wang, Shuming Chen, Jianghua Wan, Jiayuan Meng, Kai Zhang, Wei Liu, Xi Ning, 
 <font color="blue">"A multiple SIMD, multiple data (MSMD) architecture: Parallel execution of dynamic and static SIMD fragments"</font>
-Proceedings of the 19th International Symposium on High Performance Computer Architecture (<b>HPCA</b>), Shengzhen, China, Feburary 2013.
+Proceedings of the 19th International Symposium on High Performance Computer Architecture (<b>HPCA</b>), Shengzhen, China, February 2013.
 
 Yaohua Wang, Shuming Chen, Kai Zhang, Jianghua Wan, Xiaowen Chen, Hu Chen, Haibo Wang,
 <font color="blue">"Instruction shuffle: Achieving mimd-like performance on simd architectures"</font>
