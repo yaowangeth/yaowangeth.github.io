@@ -29,23 +29,23 @@ Selected publications
 ==========
 
 Yaohua Wang, Arash Tavakkol, Lois Orosa, Saugata Ghose, Nika Mansouri Ghiasi, Minesh Patel, Jeremie S. Kim, Hasan Hassan, Mohammad Sadrosadati, and Onur Mutlu,
-"Reducing DRAM Latency via Charge-Level-Aware Look-Ahead Partial Restoration"
-Proceedings of the 51st International Symposium on Microarchitecture (MICRO), Fukuoka, Japan, October 2018. 
+<font color="blue">"Reducing DRAM Latency via Charge-Level-Aware Look-Ahead Partial Restoration"</font>
+Proceedings of the 51st International Symposium on Microarchitecture (<b>MICRO</b>), Fukuoka, Japan, October 2018. 
 
 Arash Tavakkol, Mohammad Sadrosadati, Saugata Ghose, Jeremie Kim, Yixin Luo, Yaohua Wang, Nika Mansouri Ghiasi, Lois Orosa, Juan G. Luna and Onur Mutlu,
-"FLIN: Enabling Fairness and Enhancing Performance in Modern NVMe Solid State Drives
-Proceedings of the 45th International Symposium on Computer Architecture (ISCA), Los Angeles, CA, USA, June 2018. 
+<font color="blue">"FLIN: Enabling Fairness and Enhancing Performance in Modern NVMe Solid State Drives"</font>
+Proceedings of the 45th International Symposium on Computer Architecture (<b>ISCA</b>), Los Angeles, CA, USA, June 2018. 
 
 Yaohua Wang, Dong Wang, Shuming Chen, Zonglin Liu, Shenggang Chen, Xiaowen Chen, Xu Zhou, 
-"Iteration Interleaving--Based SIMD Lane Partition"
-ACM Transactions on Architecture and Code Optimization (TACO), Vol. 12, January 2016. Presented at the 11th HiPEAC Conference, Prague, Czech Republic, January 2016. 
+<font color="blue">"Iteration Interleaving--Based SIMD Lane Partition"</font>
+ACM Transactions on Architecture and Code Optimization (<b>TACO</b>), Vol. 12, January 2016. Presented at the 11th HiPEAC Conference, Prague, Czech Republic, January 2016. 
 
 Yaohua Wang, Shuming Chen, Jianghua Wan, Jiayuan Meng, Kai Zhang, Wei Liu, Xi Ning, 
-"A multiple SIMD, multiple data (MSMD) architecture: Parallel execution of dynamic and static SIMD fragments"
-Proceedings of the 19th International Symposium on High Performance Computer Architecture (HPCA), Shengzhen, China, Feburary 2013.
+<font color="blue">"A multiple SIMD, multiple data (MSMD) architecture: Parallel execution of dynamic and static SIMD fragments"</font>
+Proceedings of the 19th International Symposium on High Performance Computer Architecture (<b>HPCA</b>), Shengzhen, China, Feburary 2013.
 
 Yaohua Wang, Shuming Chen, Kai Zhang, Jianghua Wan, Xiaowen Chen, Hu Chen, Haibo Wang,
-"Instruction shuffle: Achieving mimd-like performance on simd architectures"
-IEEE Computer Architecture Letters (CAL), Vol.11, Issue 2, 2012. (Best paper award, invited to present at the 19th HPCA conference).
+<font color="blue">"Instruction shuffle: Achieving mimd-like performance on simd architectures"</font>
+IEEE Computer Architecture Letters (<b>CAL</b>), Vol.11, Issue 2, 2012. (<b>Best paper award</b>, invited to present at the 19th HPCA conference).
 
 
