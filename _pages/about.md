@@ -40,4 +40,4 @@ Shuming Chen, Yaohua Wang, Sheng Liu, Jianghua Wan, Haiyan Chen, Hengzhu Liu, Ka
 
 Yaohua Wang, Shuming Chen, Jianghua Wan, Jiayuan Meng, Kai Zhang, Wei Liu, Xi Ning, <font color="blue">"A multiple SIMD, multiple data (MSMD) architecture: Parallel execution of dynamic and static SIMD fragments"</font> Proceedings of the 19th International Symposium on High Performance Computer Architecture (<b>HPCA</b>), Shengzhen, China, February 2013.
 
-Yaohua Wang, Shuming Chen, Kai Zhang, Jianghua Wan, Xiaowen Chen, Hu Chen, Haibo Wang, <font color="blue">"Instruction shuffle: Achieving mimd-like performance on simd architectures"</font> IEEE Computer Architecture Letters (<b>CAL</b>), Vol.11, Issue 2, 2012. (<b>Best paper award</b>, invited to present at the 19th HPCA conference).
+Yaohua Wang, Shuming Chen, Kai Zhang, Jianghua Wan, Xiaowen Chen, Hu Chen, Haibo Wang, <font color="blue">"Instruction shuffle: Achieving mimd-like performance on simd architectures"</font> IEEE Computer Architecture Letters (<b>CAL</b>), Vol.11, Issue 2, 2012. (<font color="red"><b>Best paper award, invited to present at the 19th HPCA conference</b></font>).
