@@ -27,7 +27,7 @@ Paper accepted by MICRO'18: Reducing DRAM Accessing Latency via Charge-Level-Awa
 Selected publications
 ==========
 
-Yaohua Wang, Arash Tavakkol, Lois Orosa, Saugata Ghose, Nika Mansouri Ghiasi, Minesh Patel, Jeremie S. Kim, Hasan Hassan, Mohammad Sadrosadati, and Onur Mutlu,
+<b>Yaohua Wang</b>, Arash Tavakkol, Lois Orosa, Saugata Ghose, Nika Mansouri Ghiasi, Minesh Patel, Jeremie S. Kim, Hasan Hassan, Mohammad Sadrosadati, and Onur Mutlu,
 "Reducing DRAM Latency via Charge-Level-Aware Look-Ahead Partial Restoration"
 Proceedings of the 51st International Symposium on Microarchitecture (MICRO), Fukuoka, Japan, October 2018. 
 
