@@ -36,7 +36,7 @@ Jian Zhang, Shuming Chen, Yaohua Wang, <font color="blue">"Advancing CMOS-type I
 
 Yaohua Wang, Dong Wang, Shuming Chen, Zonglin Liu, Shenggang Chen, Xiaowen Chen, Xu Zhou, <font color="blue">"Iteration Interleaving--Based SIMD Lane Partition"</font> ACM Transactions on Architecture and Code Optimization (<b>TACO</b>), Vol. 12, January 2016. Presented at the 11th HiPEAC Conference, Prague, Czech Republic, January 2016. 
 
-Shuming Chen, Yaohua Wang, Sheng Liu, Jianghua Wan, Haiyan Chen, Hengzhu Liu, Kai Zhang, Xiangyuan Liu, Xi Ning, <font color="blue">"FT-Matrix: A coordination-aware architecture for signal processing"</font> <b>IEEE MICRO</b>, Vol.34, Issue 6, November 2014.
+Shuming Chen, Yaohua Wang, Sheng Liu, Jianghua Wan, Haiyan Chen, Hengzhu Liu, Kai Zhang, Xiangyuan Liu, Xi Ning, <font color="blue">"FT-Matrix: A coordination-aware architecture for signal processing"</font> <b>IEEE Micro</b>, Vol.34, Issue 6, November 2014.
 
 Yaohua Wang, Shuming Chen, Jianghua Wan, Jiayuan Meng, Kai Zhang, Wei Liu, Xi Ning, <font color="blue">"A multiple SIMD, multiple data (MSMD) architecture: Parallel execution of dynamic and static SIMD fragments"</font> Proceedings of the 19th International Symposium on High Performance Computer Architecture (<b>HPCA</b>), Shengzhen, China, February 2013.
 
