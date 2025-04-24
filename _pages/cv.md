@@ -27,8 +27,10 @@ Work experience
   * Supervisor: Professor Onur Mutlu
 * Winter 2018: Associate Professor
   * National University of Defense Technology
-  
+* Summer 2023: Full Professor
+  * National University of Defense Technology 
 
 Publications
 ======
- * [Google Scholar Citations](https://scholar.google.com/citations?user=opJG10AAAAAJ&hl=en) 
+ * [Google Scholar Citations](https://scholar.google.com/citations?user=opJG10AAAAAJ&hl=en)
+ * [dblp](https://dblp.org/pid/46/8559.html)
