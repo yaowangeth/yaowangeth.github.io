@@ -22,6 +22,8 @@ My research interests
 
 **AI for Secure IC**: This involves leveraging AI technologies to improve the security of existing integrated circuits. It covers the full - chain security protection technologies throughout the chip design, manufacturing, and usage processes.
 
+Our lab is always open to new students. Welcome to send your resume to: yhwang@nudt.edu.cn
+
 News and events
 =========
 
