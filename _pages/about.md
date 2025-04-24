@@ -24,7 +24,8 @@ My research interests
 News and events
 =========
 
-Paper accepted by MICRO'18: Reducing DRAM Accessing Latency via Charge-Level-Aware Look-ahead Partial Restoration.
+Paper accepted by TACO'25: ISOAcc: In-situ Shift Operation-based Accelerator For Efficient in-SRAM Multiplication.
+Paper accepted by USENIX Security'24: Improving the Ability of Thermal Radiation Based Hardware Trojan Detection.
 
 Selected publications
 ==========
