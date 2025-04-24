@@ -12,7 +12,7 @@ redirect_from:
 About me
 ==========
 
-I am an Associate Professor of Computer Science at National University of Defense Technology. I received my Ph.D. degree from National University of Defense Technology in 2013. I was a Postdoc Researcher at ETH Zurich from Nov. 2016 to Nov. 2017, working with Professor Onur Mutlu.
+I am a Full Professor of Computer Science at National University of Defense Technology. I received my Ph.D. degree from National University of Defense Technology in 2013. I was a Postdoc Researcher at ETH Zurich from Nov. 2016 to Nov. 2017, working with Professor Onur Mutlu.
 
 
 My research interests
