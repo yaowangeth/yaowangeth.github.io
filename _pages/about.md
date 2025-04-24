@@ -18,13 +18,15 @@ I am an Associate Professor of Computer Science at National University of Defens
 My research interests
 =======
 
-1. IC for Secure AI: With a focus on AI security, this area adopts technical approaches including AI compilation optimization, accelerator architecture design, and in - memory computing. Through software - hardware co - design, it aims to enhance the efficiency and security of AI systems.
-2. AI for Secure IC: This involves leveraging AI technologies to improve the security of existing integrated circuits. It covers the full - chain security protection technologies throughout the chip design, manufacturing, and usage processes.
+**IC for Secure AI**: With a focus on AI security, this area adopts technical approaches including AI compilation optimization, accelerator architecture design, and in - memory computing. Through software - hardware co - design, it aims to enhance the efficiency and security of AI systems.
+
+**AI for Secure IC**: This involves leveraging AI technologies to improve the security of existing integrated circuits. It covers the full - chain security protection technologies throughout the chip design, manufacturing, and usage processes.
 
 News and events
 =========
 
-Paper accepted by TACO'25: ISOAcc: In-situ Shift Operation-based Accelerator For Efficient in-SRAM Multiplication.
+Paper accepted by TACO'25: Shift-CIM: In-SRAM Alignment To Support General-Purpose Bit-level Sparsity Exploration in SRAM Multiplication.
+
 Paper accepted by USENIX Security'24: Improving the Ability of Thermal Radiation Based Hardware Trojan Detection.
 
 Selected publications
@@ -32,7 +34,9 @@ Selected publications
 
 **2025:**
 
-Gaoyang Zhao, Junzhong Shen, Rongzhen Lin, Hua Li, **Yaohua Wang**, <font color="blue">"ISOAcc: In-situ Shift Operation-based Accelerator For Efficient in-SRAM Multiplication"</font> ACM Trans. Design Autom. Electr. Syst. 30(2): 22:1-22:24 (2025) (**TACO CCF-A**)
+Gaoyang Zhao, Qiuran Li, Rongzhen Lin, **Yaohua Wang**, <font color="blue">"Shift-CIM: In-SRAM Alignment To Support General-Purpose Bit-level Sparsity Exploration in SRAM Multiplication"</font> ACM Transactions on Architecture and Code Optimization (**TACO CCF-A**)
+
+Gaoyang Zhao, Junzhong Shen, Rongzhen Lin, Hua Li, **Yaohua Wang**, <font color="blue">"ISOAcc: In-situ Shift Operation-based Accelerator For Efficient in-SRAM Multiplication"</font> ACM Trans. Design Autom. Electr. Syst. 30(2): 22:1-22:24 (2025) (**​​TODAES CCF-B**)
 
 **2024:**
 
