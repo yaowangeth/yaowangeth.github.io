@@ -86,7 +86,7 @@ author:
   location         : "NUDT"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=opJG10AAAAAJ&hl=en"
-  email            : "yaowangeth@gmail.com"
+  email(yhwang@nudt.edu.cn) : "yhwang@nudt.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -101,13 +101,13 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : ""
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
+  twitter          :
   vine             :
   weibo            :
   xing             :
