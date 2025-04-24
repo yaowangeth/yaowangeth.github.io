@@ -29,11 +29,13 @@ Selected publications
 ==========
 
 **2025:**
+
 ---
 
 Gaoyang Zhao, Junzhong Shen, Rongzhen Lin, Hua Li, **Yaohua Wang**, <font color="blue">"ISOAcc: In-situ Shift Operation-based Accelerator For Efficient in-SRAM Multiplication"</font> ACM Trans. Design Autom. Electr. Syst. 30(2): 22:1-22:24 (2025) (**TACO CCF-A**)
 
 **2024:**
+
 ---
 
 Pengcheng Huang, **Yaohua Wang**, Zhenyu Zhao, Daheng Yue, <font color="blue">"CAUTS: Clock Tree Optimization via Skewed Cells With Complementary Asymmetrical Uniform Transistor Sizing"</font> IEEE Trans. Very Large Scale Integr. Syst. 32(1): 137-149 (2024) (**TVLSI CCF-B**)
