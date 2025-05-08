@@ -42,19 +42,19 @@ Gaoyang Zhao, Junzhong Shen, Rongzhen Lin, Hua Li, **Yaohua Wang**, <font color=
 
 **2024:**
 
+Fei Zhang, Zhe Li, Yahang Hu, **Yaohua Wang**, <font color="blue">"CIGA: Detecting Adversarial Samples via Critical Inference Graph Analysis"</font> ACSAC 2024: 1231-1244 (**ACSAC CCF_B**)
+
 Pengcheng Huang, **Yaohua Wang**, Zhenyu Zhao, Daheng Yue, <font color="blue">"CAUTS: Clock Tree Optimization via Skewed Cells With Complementary Asymmetrical Uniform Transistor Sizing"</font> IEEE Trans. Very Large Scale Integr. Syst. 32(1): 137-149 (2024) (**TVLSI CCF-B**)
 
 Ting Su, **Yaohua Wang**, Shi Xu, Lusi Zhang, Simin Feng, Jialong Song, Yiming Liu, Yongkang Tang, Yang Zhang, Shaoqing Li, Yang Guo, Hengzhu Liu, <font color="blue">"Improving the Ability of Thermal Radiation Based Hardware Trojan Detection"</font> USENIX Security Symposium 2024 (**USENIX Security CCF-A**)
 
-Zheng Yu, **Yaohua Wang**, Siying Cui, Aixi Zhang, Wei-Long Zheng, Senzhang Wang, <font color="blue">"FuseAnyPart: Diffusion-Driven Facial Parts Swapping via Multiple Reference Images"</font> NeurIPS 2024 (**NIPS CCF-A**)
-
 **2023:**
-
-Xuan Shen, **Yaohua Wang**, Ming Lin, Yilun Huang, Hao Tang, Xiuyu Sun, Yanzhi Wang, <font color="blue">"DeepMAD: Mathematical Architecture Design for Deep Convolutional Neural Network"</font> CVPR 2023: 6163-6173 (**CVPR CCF-A**)
 
 Xiaoyun Zhang, **Yaohua Wang**, Dezun Dong, Cunlu Li, Shaocong Wang, Liquan Xiao, <font color="blue">"DeTAR: A Decision Tree-Based Adaptive Routing in Networks-on-Chip"</font> Euro-Par 2023: 352-366 (**Euro-Par CCF-B**)
 
 Xiangjun Peng, **Yaohua Wang**, Ming-Chang Yang, <font color="blue">"CHOPPER: A Compiler Infrastructure for Programmable Bit-serial SIMD Processing Using Memory in DRAM"</font> HPCA 2023: 1275-1288 (**HPCA CCF-A**)
+
+Zhe Li, **Yaohua Wang**, Zhanshan Li, <font color="blue">"A Bitwise GAC Algorithm for Alldifferent Constraint"</font> IJCAI 2023: 1988-1995 (**IJCAI CCF-A**)
 
 **2022:**
 
@@ -94,4 +94,4 @@ Shuming Chen, **Yaohua Wang**, Sheng Liu, Jianghua Wan, Haiyan Chen, Hengzhu Liu
 
 **2012:**
 
-Yaohua Wang, Shuming Chen, Kai Zhang, Jianghua Wan, Xiaowen Chen, Hu Chen, Haibo Wang, <font color="blue">"Instruction shuffle: Achieving mimd-like performance on simd architectures"</font> IEEE Computer Architecture Letters (<b>CAL</b>), Vol.11, Issue 2, 2012. (<font color="red"><b>Best paper award, invited to present at the 19th HPCA conference</b></font>).
+**Yaohua Wang**, Shuming Chen, Kai Zhang, Jianghua Wan, Xiaowen Chen, Hu Chen, Haibo Wang, <font color="blue">"Instruction shuffle: Achieving mimd-like performance on simd architectures"</font> IEEE Computer Architecture Letters (<b>CAL</b>), Vol.11, Issue 2, 2012. (<font color="red"><b>Best paper award, invited to present at the 19th HPCA conference</b></font>).
