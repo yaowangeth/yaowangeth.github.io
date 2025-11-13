@@ -36,13 +36,17 @@ Selected publications
 
 **2025:**
 
+Jiaji He, Jiansheng Chen, Fei Zhao, **Yaohua Wang**, <font color="blue">, Yongqiang Lyu “SCPrompt: Semantic Compression and Prompt-Guided LLM Reasoning for RTL Trojan Detection”Asia and South Pacific Design Automation Conference 2026 (**ASP-DAC CCF-C**)
+
+Qiuran Li, Jingkui Yang, Fanjin Xu, Fei Zhang, Xingyu Zhang, Zhe Li, Jinjin Shao, **Yaohua Wang**, <font color="blue"> "Secure Token Pruning Mechanism and Accelerator for Vision Transformer" 2025 IEEE/ACM International Conference on Computer-Aided Design (**ICCAD CCF-B**)
+
 Gaoyang Zhao, Qiuran Li, Rongzhen Lin, **Yaohua Wang**, <font color="blue">"Shift-CIM: In-SRAM Alignment To Support General-Purpose Bit-level Sparsity Exploration in SRAM Multiplication"</font> ACM Transactions on Architecture and Code Optimization (**TACO CCF-A**)
 
 Gaoyang Zhao, Junzhong Shen, Rongzhen Lin, Hua Li, **Yaohua Wang**, <font color="blue">"ISOAcc: In-situ Shift Operation-based Accelerator For Efficient in-SRAM Multiplication"</font> ACM Trans. Design Autom. Electr. Syst. 30(2): 22:1-22:24 (2025) (**​​TODAES CCF-B**)
 
 **2024:**
 
-Fei Zhang, Zhe Li, Yahang Hu, **Yaohua Wang**, <font color="blue">"CIGA: Detecting Adversarial Samples via Critical Inference Graph Analysis"</font> ACSAC 2024: 1231-1244 (**ACSAC CCF_B**)
+Fei Zhang, Zhe Li, Yahang Hu, **Yaohua Wang**, <font color="blue">"CIGA: Detecting Adversarial Samples via Critical Inference Graph Analysis"</font> ACSAC 2024: 1231-1244 (**ACSAC CCF-B**)
 
 Pengcheng Huang, **Yaohua Wang**, Zhenyu Zhao, Daheng Yue, <font color="blue">"CAUTS: Clock Tree Optimization via Skewed Cells With Complementary Asymmetrical Uniform Transistor Sizing"</font> IEEE Trans. Very Large Scale Integr. Syst. 32(1): 137-149 (2024) (**TVLSI CCF-B**)
 
