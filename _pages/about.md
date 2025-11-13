@@ -36,9 +36,9 @@ Selected publications
 
 **2025:**
 
-Jiaji He, Jiansheng Chen, Fei Zhao, **Yaohua Wang**, <font color="blue">, Yongqiang Lyu “SCPrompt: Semantic Compression and Prompt-Guided LLM Reasoning for RTL Trojan Detection”Asia and South Pacific Design Automation Conference 2026 (**ASP-DAC CCF-C**)
+Jiaji He, Jiansheng Chen, Fei Zhao, **Yaohua Wang**, Yongqiang Lyu, <font color="blue">"SCPrompt: Semantic Compression and Prompt-Guided LLM Reasoning for RTL Trojan Detection"</font> Asia and South Pacific Design Automation Conference 2026 (**ASP-DAC CCF-C**)
 
-Qiuran Li, Jingkui Yang, Fanjin Xu, Fei Zhang, Xingyu Zhang, Zhe Li, Jinjin Shao, **Yaohua Wang**, <font color="blue"> "Secure Token Pruning Mechanism and Accelerator for Vision Transformer" 2025 IEEE/ACM International Conference on Computer-Aided Design (**ICCAD CCF-B**)
+Qiuran Li, Jingkui Yang, Fanjin Xu, Fei Zhang, Xingyu Zhang, Zhe Li, Jinjin Shao, **Yaohua Wang**, <font color="blue">"Secure Token Pruning Mechanism and Accelerator for Vision Transformer"</font> 2025 IEEE/ACM International Conference on Computer-Aided Design (**ICCAD CCF-B**)
 
 Gaoyang Zhao, Qiuran Li, Rongzhen Lin, **Yaohua Wang**, <font color="blue">"Shift-CIM: In-SRAM Alignment To Support General-Purpose Bit-level Sparsity Exploration in SRAM Multiplication"</font> ACM Transactions on Architecture and Code Optimization (**TACO CCF-A**)
 
